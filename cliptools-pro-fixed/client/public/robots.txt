@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cliptools.pro/sitemap.xml
+
+# Disallow admin or private paths (none currently)
+# Disallow: /admin/
